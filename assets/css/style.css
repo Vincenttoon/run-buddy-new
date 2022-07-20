@@ -8,6 +8,12 @@ body {
     /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
+    padding: 0;
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 /* apply styles to <header> */
@@ -150,7 +156,6 @@ footer a {
     font-size: 55px;
     color: #024e76;
     border-bottom: 3px solid;
-    padding-bottom: 20%;
     text-align: center;
     margin: 0 auto 35px auto;
     width: 50%;
